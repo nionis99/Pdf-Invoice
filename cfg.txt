@@ -1,0 +1,3 @@
+# db
+db_type = postgres
+db_conn = user=#user password=#passw host=#host dbname=spp_release sslmode=disable
